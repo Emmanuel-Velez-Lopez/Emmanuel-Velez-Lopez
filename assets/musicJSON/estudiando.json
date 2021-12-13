@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiando",
+        "artista":"Independiente",
+        "nombre" : "Estudiar Noche",
+        "url":"https://musicarelajante.me/wp-content/uploads/2016/11/Musica-para-estudiar-concentrarse-y-pensar.mp3",
+        "duracion":400
+    },
+    {
+        "id":1,
+        "playlist":"estudiando",
+        "artista":"MOZART",
+        "nombre" : "Baile de las Estrellas",
+        "url":"https://musicarelajante.me/wp-content/uploads/2017/05/MOZART-para-estudiar.mp3",
+        "duracion":158
+    }
+]

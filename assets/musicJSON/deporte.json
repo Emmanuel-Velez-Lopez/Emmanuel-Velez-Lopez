@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Queen",
+        "nombre" : "Another One Bites The Dust",
+        "url":"assets/music/deporte/Queen - Another One Bites the Dust.mp3",
+        "duracion":215
+    }
+]
